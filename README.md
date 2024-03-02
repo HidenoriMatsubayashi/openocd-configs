@@ -1,9 +1,11 @@
-# Config files for OpenOCD
+## Config files for OpenOCD
 
 Config files for [OpenOCD](https://openocd.org/).
 
-## Interface configuration
+### Interface configurations
+ - cmsis-dap.cfg: Raspberry Pi Debug Probe
  - c232hm-edhsl-0.cfg: FTDI USB Hi-Speed to MPSSE Cable
 
-## Device configuration
- - raspi4.cfg: configuration file for Raspberry Pi 4
+### Device configurations
+ - raspi5.cfg: Raspberry Pi 5
+ - raspi4.cfg: Raspberry Pi 4
